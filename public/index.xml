@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>关于我 on 路遥柯</title>
-    <link>https://cycleke.com/</link>
+    <link>https://www.cycleke.com/</link>
     <description>Recent content in 关于我 on 路遥柯</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://cycleke.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.cycleke.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我</title>
-      <link>https://cycleke.com/about/</link>
+      <link>https://www.cycleke.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cycleke.com/about/</guid>
-      <description>关于我   一名在哈尔滨工业大学读计算机的大四学生。 从高中开始就学习了算法竞赛知识， 然而至今也只学会了一点，已退役。 喜欢在开源社区学习别人的代码 ， 日常使用 Arch Linux 和 Emacs。 使用的语言是 C++（又爱又恨）、Rust（我的新欢）、Python（写个脚本）、Haskell（爱但不会）。 萧瑟秋风今又是，换了人间。   关于路遥柯 一个高三学生取的笔名， 与志向有关、与高考有关、也与女同学有关。
+      <guid>https://www.cycleke.com/about/</guid>
+      <description>关于我   一名在哈尔滨工业大学读计算机的大四学生。 从高中开始就学习了算法竞赛知识， 然而至今也只学会了一点，已退役。 喜欢在开源社区学习别人的代码 ， 日常使用 Arch Linux 和 Emacs。 使用的语言是 C++（又爱又恨）、Rust（我的新欢）、Python（写个脚本）、Haskell（爱但不会）。 萧瑟秋风今又是，换了人间。   关于路遥柯 一个高三学生取的笔名， 与志向有关、与高考有关、也与同桌有关。
  路漫漫其修远兮，吾将上下而求索。
 屈原《离骚》
   联系方式  QQ： 1352216033 GitHub： cycleke Email（半周一看）： cycleke@gmail.com Telegram（不一定在线）： cycleke  </description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>其它链接</title>
-      <link>https://cycleke.com/links/</link>
+      <link>https://www.cycleke.com/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cycleke.com/links/</guid>
+      <guid>https://www.cycleke.com/links/</guid>
       <description>个人  Init_new_world ：哈工大，安全 Zireael ：哈工大，数学   论坛  Emacs China ：可能是最好的 Emacs 中文论坛 Arch Linux 中文社区 ：Arch Linux 中文社区 Arch Linux Forums ：Arch Linux 论坛   软件  GNU Emacs ：可扩展、可定制、自由的文本编辑器  </description>
     </item>
     
