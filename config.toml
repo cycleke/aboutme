@@ -1,5 +1,5 @@
 title = "路遥柯"
-baseURL = "https://cycleke.com"
+baseURL = "https://www.cycleke.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -8,7 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "路遥柯"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "路漫漫其修远兮，吾将上下而求索"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
@@ -18,7 +18,7 @@ googleAnalytics = ""  # add your tracking id
     copyright = "路遥柯"
     beian = ""
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Source Han Serif"
+    fontFamily = "'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif'"
     pageWidth = "750px"
     avatarSize = "90px"
     colorBlack = "#222222"
