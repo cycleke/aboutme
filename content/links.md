@@ -4,6 +4,8 @@ title = "其它链接"
 
 ## 个人
 
+- [cycleke](https://www.cnblogs.com/cycleke/)
+  ：自己以前的博客
 - [Init_new_world](https://blog.init-new-world.com/)
   ：哈工大，安全
 - [Zireael](http://blog.zireaels.com/)
