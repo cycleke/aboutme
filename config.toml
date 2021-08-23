@@ -1,6 +1,5 @@
 title = "路遥柯"
-# baseURL = "https://www.cycleke.com"
-baseURL = "http://1.116.110.247/"
+baseURL = "https://cycleke.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -17,7 +16,7 @@ googleAnalytics = ""  # add your tracking id
     themeUrl = "https://github.com/ojroques/hugo-researcher"
     since = "2021"
     copyright = "路遥柯"
-    beian = ""
+    beian = "蜀ICP备2021020864号-1"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "'IBM Plex Serif', 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', serif !default"
     titleFont = "'Ma Shan Zheng', serif !default"
