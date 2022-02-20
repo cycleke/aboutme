@@ -59,9 +59,13 @@ googleAnalytics = ""  # add your tracking id
     url = "https://blog.cycleke.com/"
     weight = 2
   [[menu.main]]
+    name = "在线粘贴板"
+    url = "https://paste.cycleke.com/"
+    weight = 3
+  [[menu.main]]
     name = "其他链接"
     url = "/links"
-    weight = 3
+    weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
